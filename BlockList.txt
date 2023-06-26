@@ -10,3 +10,10 @@ r5---sn-aigl6nsr.googlevideo.com
 r1---sn-aigl6nz7.googlevideo.com
 r4---sn-aigzrn7e.googlevideo.com
 r4---sn-aigl6nzs.googlevideo.com
+r5---sn-aigl6nz7.googlevideo.com
+r3---sn-aigzrnze.googlevideo.com
+r5---sn-aigl6nzs.googlevideo.com
+r3---sn-aigzrnsl.googlevideo.com
+r4---sn-aigzrnse.googlevideo.com
+r3---sn-aigzrnsz.googlevideo.com
+r3---sn-aigl6ned.googlevideo.com
